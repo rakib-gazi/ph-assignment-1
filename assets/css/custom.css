@@ -41,14 +41,14 @@ body{
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
     font-style: normal;
-    font-size: 10px;
+    font-size: 16px;
 }
 /* hero section */
 .hero{
     background-image: url("../images/Hero-bg.png");
     background-position:center ;
     background-size: cover;
-    height: 500px;
+    height: 700px;
     display: flex;
     justify-content: center;
 }
@@ -64,8 +64,8 @@ body{
 
 }
 .hero-img{
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     margin-bottom: 50px;
 }
 .hero-item{
@@ -77,27 +77,28 @@ body{
   font-weight: 800;
   font-style: normal;
   line-height: 1.2;
-  font-size: 32px;
+  font-size: 40px;
   margin-bottom: 16px;
 }
 .hero-description{
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
     font-style: normal;
-    font-size: 10px; 
-    line-height: 1.4;  
+    font-size: 16px; 
+    line-height: 1.4; 
+    margin-bottom: 50px; 
 }
 .hero-btn{
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
     font-style: normal;
-    font-size: 12px; 
+    font-size: 16px; 
     background-color: black;
     color:white;
     border: 1px solid black;
     border-radius: 5px;
-    padding: 4px 8px;
-    margin-top: 40px;
+    padding: 8px 12px;
+    text-decoration: none;
 }
 /* abouts web develpment section */
 .about-section{
